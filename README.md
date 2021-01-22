@@ -24,7 +24,8 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
 ## Results
 
  1- Deliverable 1:
-  in the deliverable 1 we were assigned to select the ninth-grade reading and math scores for Thomas High School, by using the Pandas NumPy module to change the reading and math scores to NaN, which represents a "Not-a-Number" value, using the Pandas loc method with conditional statements and comparison and logical operators.
+ 
+ In the deliverable 1 we were assigned to select the ninth-grade reading and math scores for Thomas High School, by using the Pandas NumPy module to change the reading and math scores to NaN, which represents a "Not-a-Number" value, using the Pandas loc method with conditional statements and comparison and logical operators.
   
   After running the code we had the following results 
   
@@ -32,3 +33,6 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
   ![delivereable_1_NaN](/Resources/deliverable_1_NaN.PNG)
   
   
+   1- Deliverable 2:
+   
+    1-1 The district summary
