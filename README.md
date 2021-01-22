@@ -14,7 +14,7 @@ You can find the code [here.](/PyCitySchools_Challenge.ipynb)
  
 The purpose of the project is analyse the following data of the High Schools before and after a possible academic dishonesty, where the data for 9th Grade of Thomas High School has been upheld for the analysis purpose. We have replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. We will analyse the data before and after making this change.
 
-First, our responsability is to aggregate data and showcase obvious trends in school performance. Our final report should include each of the following:
+First, our responsability is to aggregate data and showcase obvious trends in school performance. Our final report should include each of the following (deliverable 2):
 
  - The district summary.
  - The school summary.
@@ -36,6 +36,15 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
   
   
    1- Deliverable 2:
+   
+    In the deliverable 2 we were assigned to repeat the school district analysis already done in this module, and to recreate the following metrics:
+    
+ 1-1 The district summary.
+ 1-2 The school summary.
+ 1-3 The top 5 and bottom 5 performing schools, based on the overall passing rate.
+ 1-4 The average math score for each grade level from each school.
+ 1-5 The average reading score for each grade level from each school.
+ 1-6 The scores by school spending per student, by school size, and by school type.
    
    *1-1 The district summary*
    
