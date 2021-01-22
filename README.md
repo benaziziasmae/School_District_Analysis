@@ -40,7 +40,7 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
    ![school_summary_1](/Resources/school_summary_1.PNG)
    
    
-   It gives the district's key metrics, including:
+ It gives the district's key metrics, including:
 
 - Total Schools
 - Total Students 
@@ -56,7 +56,7 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
    ![school_summary_2](/Resources/school_summary_2.PNG)
    
    
-   It creates an overview table that summarizes key metrics about each school, including:
+ It creates an overview table that summarizes key metrics about each school, including:
 
 - School Name 
 - School Type 
