@@ -81,8 +81,19 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
    
    
    *1-6 The scores by school spending per student, by school size, and by school type*
-    a- By school spending per student
+   
+     a- By school spending per student
    
    ![school_spending_summary](Resources/school_spending_summary.PNG)
+   
+   
+    b- By school size
+    
+    ![school_size_summary](Resources/school_size_summary.PNG)
+    
+     c- By school type
+     
+     ![school_type_summary](Resources/school_type_summary.PNG)
+    
    
    
