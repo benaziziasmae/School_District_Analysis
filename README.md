@@ -2,7 +2,7 @@
 
 School District Analysis using Anaconda, Jupyter Notebook, Pandas & Python.
 
-You can find the code [here](/PyCitySchools_Challenge.ipynb)
+You can find the code [here.](/PyCitySchools_Challenge.ipynb)
 
 ## Overview of the school district analysis
 
