@@ -27,7 +27,7 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
  
  In the deliverable 1 we were assigned to select the ninth-grade reading and math scores for Thomas High School, by using the Pandas NumPy module to change the reading and math scores to NaN, which represents a "Not-a-Number" value, using the Pandas loc method with conditional statements and comparison and logical operators.
   
-  After running the code we had the following results 
+  After running the code we had the following results.
   
   
   ![delivereable_1_NaN](/Resources/deliverable_1_NaN.PNG)
@@ -40,7 +40,20 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
    ![school_summary_1](/Resources/school_summary_1.PNG)
    
    
+   It gives the district's key metrics, including:
+
+- Total Schools
+- Total Students 
+- Total Budget 
+- Average Math Score  
+- Average Reading Score
+- % Passing Math (The percentage of students that passed math.) 
+- % Passing Reading (The percentage of students that passed reading.)
+- % Overall Passing (The percentage of students that passed math and reading.)
+   
+   
    ![school_summary_2](/Resources/school_summary_2.PNG)
 
    
    
+ 
