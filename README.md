@@ -51,8 +51,25 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
    
+   1-2 The school summary
    
    ![school_summary_2](/Resources/school_summary_2.PNG)
+   
+   
+   It creates an overview table that summarizes key metrics about each school, including:
+
+- School Name 
+- School Type 
+- Total Students 
+- Total School Budget
+- Per Student Budget 
+- Average Math Score 
+- Average Reading Score 
+- % Passing Math (The percentage of students that passed math.) 
+- % Passing Reading (The percentage of students that passed reading.) 
+- % Overall Passing (The percentage of students that passed math and reading.)
+   
+   
 
    
    
