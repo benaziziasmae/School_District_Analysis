@@ -69,8 +69,8 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
 - % Passing Reading (The percentage of students that passed reading.) 
 - % Overall Passing (The percentage of students that passed math and reading.)
    
-   
+    *1-4 The average math score for each grade level from each school*
 
-   
+   ![average_math_score](Resources/average_math_score.PNG)
    
  
