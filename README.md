@@ -35,7 +35,7 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
   
    1- Deliverable 2:
    
-   1-1 The district summary
+   *1-1 The district summary*
    
    ![school_summary_1](/Resources/school_summary_1.PNG)
    
@@ -51,7 +51,7 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
    
-   1-2 The school summary
+   *1-2 The school summary*
    
    ![school_summary_2](/Resources/school_summary_2.PNG)
    
