@@ -35,4 +35,4 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
   
    1- Deliverable 2:
    
-    1-1 The district summary
+   1-1 The district summary
