@@ -39,3 +39,8 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
    
    ![school_summary_1](/Resources/school_summary_1.PNG)
    
+   
+   ![school_summary_2](/Resources/school_summary_2.PNG)
+
+   
+   
