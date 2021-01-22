@@ -37,5 +37,5 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
    
    1-1 The district summary
    
-   ![school_summary_1](/Resources/school_summary_1.PNG.PNG)
+   ![school_summary_1](/Resources/school_summary_1.PNG.)
    
