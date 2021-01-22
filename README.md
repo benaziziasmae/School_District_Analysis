@@ -1,5 +1,7 @@
 # School_District_Analysis
 
+School District Analysis using Anaconda, Jupyter Notebook, Pandas & Python
+
 ## Overview of the school district analysis
 
  1- Data
@@ -10,10 +12,15 @@
  
 The purpose of the project is analyse the following data of the High Schools before and after a possible academic dishonesty, where the data for 9th Grade of Thomas High School has been upheld for the analysis purpose. We have replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. We will analyse the data before and after making this change.
 
+First, our responsability is to aggregate data and showcase obvious trends in school performance. Our final report should include each of the following:
+
  - The district summary.
  - The school summary.
  - The top 5 and bottom 5 performing schools, based on the overall passing rate.
  - The average math score for each grade level from each school.
  - The average reading score for each grade level from each school.
- - The scores by school spending per student, by school size, and by school type..
-First, and 
+ - The scores by school spending per student, by school size, and by school type.
+ 
+## Results
+
+ 1- Deliverable 1:
