@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##Overview of the school district analysis
+## Overview of the school district analysis
 
 The purpose of the project is analyse the following data of the High Schools before and after a possible academic dishonesty, where the data for 9th Grade of Thomas High School has been upheld for the analysis purpose. We have replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. We will analyse the data before and after making this change.
 
