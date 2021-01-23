@@ -127,8 +127,12 @@ And since some of the test scores from the 9th grade at Thomas High School are m
    
    - Average math and reading scores dropped just by 1%, i.e. from 79% to 78% and 81.9% to 80.9% respectively.
    - % Passing Math, % Passing Reading and % Overall passing also showed 1% drop after the change from 75% to 74%, 86% to 85% and 65% to 64% respectively.
+   
+   *District Summary after*
     
 ![after_district_summary](/Resources/after_district_summary.PNG)
+
+*District Summary after*
 
 ![before_district_summary](/Resources/before_district_summary.PNG)
     
