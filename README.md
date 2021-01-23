@@ -124,7 +124,7 @@ And since some of the test scores from the 9th grade at Thomas High School are m
    #How is the district summary affected?
    If we compare the results from PyCitySchools and PyCitySchools_Challenge, we can see a slight difference in the results as below but we can say that there were no huge impact after removing the 9th grade data 
    
-   **Before**                                                                            **After**
+   **Before** <<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>                   **After**
    
    Average Math Score = 79.0                                                              Average Math Score = 79.0
    
