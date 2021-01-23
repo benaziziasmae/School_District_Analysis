@@ -136,20 +136,20 @@ Thomas High School's performance decreased compared to the other schools however
 
   4. How does replacing the ninth-grade scores affect the following: 
  
--- Math and reading scores by grade
+  -- Math and reading scores by grade
 
  The 9th grade scores were brought down as Thomas High School 9th graders averaged higher than other schools.
 
--- Scores by school spending
+  -- Scores by school spending
 
 The numbers stay nearly identical since the 9th graders are nullified from the statistics.
 In the cohort $630-644, % passing math, %passing reading and %overall passing have decreased after changing the grades to NaN.
 
--- Scores by school size
+  -- Scores by school size
 
 The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percentage.
 
--- Scores by school type
+  -- Scores by school type
 
 Scores by school type are not altered at all.
 The charter type schools saw a drop from 90% to 87% overall passing percentage.
