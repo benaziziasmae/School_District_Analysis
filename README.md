@@ -27,7 +27,7 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
 
  1- Deliverable 1:
  
- In the deliverable 1 we were assigned to select the ninth-grade reading and math scores for Thomas High School, by using the Pandas NumPy module to change the reading and math scores to NaN, which represents a "Not-a-Number" value, using the Pandas loc method with conditional statements and comparison and logical operators.
+ In the deliverable 1, we were assigned to select the ninth-grade reading and math scores for Thomas High School, by using the Pandas NumPy module to change the reading and math scores to NaN, which represents a "Not-a-Number" value, using the Pandas loc method with conditional statements and comparison and logical operators.
   
   After running the code we had the following results.
   
@@ -37,7 +37,7 @@ First, our responsability is to aggregate data and showcase obvious trends in sc
   
    1- Deliverable 2:
    
-In the deliverable 2 we were assigned to repeat the school district analysis already done in this module, and to recreate the following metrics:
+In the deliverable 2, we were assigned to repeat the school district analysis already done in this module, and to recreate the following metrics:
     
   1-1 The district summary.
   
@@ -66,6 +66,8 @@ In the deliverable 2 we were assigned to repeat the school district analysis alr
 - % Passing Math (The percentage of students that passed math.) 
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
+
+And since some of the test scores from the 9th grade at Thomas High School are missing we want to take all of the scores from the high school so that it doesn't affect our overall numbers.
    
    *1-2 The school summary*
    
@@ -74,7 +76,7 @@ In the deliverable 2 we were assigned to repeat the school district analysis alr
    
  It creates an overview table that summarizes key metrics about each school, including:
 
-- School Name  v
+- School Name 
 - School Type 
 - Total Students 
 - Total School Budget
@@ -84,6 +86,12 @@ In the deliverable 2 we were assigned to repeat the school district analysis alr
 - % Passing Math (The percentage of students that passed math.) 
 - % Passing Reading (The percentage of students that passed reading.) 
 - % Overall Passing (The percentage of students that passed math and reading.)
+
+
+    *1-3 The top 5 and bottom 5 performing schools, based on the overall passing rate*
+    
+     ![top_and_bottom_schools](Resources/top_and_bottom_schools.PNG.PNG)
+    
    
     *1-4 The average math score for each grade level from each school*
 
