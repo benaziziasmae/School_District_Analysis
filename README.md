@@ -154,7 +154,7 @@ The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percent
 Scores by school type are not altered at all.
 The charter type schools saw a drop from 90% to 87% overall passing percentage.
 
-#Conclusion
+# Conclusion
 
   The four major changes that occured between the two analyses were:
 
