@@ -132,7 +132,7 @@ And since some of the test scores from the 9th grade at Thomas High School are m
     
 ![after_district_summary](/Resources/after_district_summary.PNG)
 
-*District Summary after*
+*District Summary before*
 
 ![before_district_summary](/Resources/before_district_summary.PNG)
     
