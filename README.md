@@ -53,7 +53,7 @@ In the deliverable 2, we were assigned to repeat the school district analysis al
    
    *1-1 The district summary*
    
-   ![school_summary_1](/Resources/school_summary_1.PNG)
+   ![school_summary_1](/Resources/after_district_summary.PNG)
    
    
  It gives the district's key metrics, including:
