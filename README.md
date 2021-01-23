@@ -128,13 +128,13 @@ And since some of the test scores from the 9th grade at Thomas High School are m
    
    Average Math Score = 79.0  <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Average Math Score = 79.0
    
-   Average Reading Score = 81.9 <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Average Reading Score = 81.9
+   Average Reading Score = 81.9 <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Average Reading Score = 81.9
    
    % Passing Math 75 <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  % Passing Math 75
    
-   % Passing Reading 86     <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  % Passing Reading 86
+   % Passing Reading 86     <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   % Passing Reading 86
    
-   % Overall Passing 65      <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> % Overall Passing 65
+   % Overall Passing 65      <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  % Overall Passing 65
    
 
    
