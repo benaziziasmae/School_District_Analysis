@@ -53,7 +53,7 @@ In the deliverable 2, we were assigned to repeat the school district analysis al
    
    *1-1 The district summary*
    
-   ![school_summary_1](/Resources/school_summary_1.PNG)
+   ![after_district_summary](/Resources/after_district_summary.PNG)
    
    
  It gives the district's key metrics, including:
@@ -127,9 +127,14 @@ And since some of the test scores from the 9th grade at Thomas High School are m
    
    - Average math and reading scores dropped just by 1%, i.e. from 79% to 78% and 81.9% to 80.9% respectively.
    - % Passing Math, % Passing Reading and % Overall passing also showed 1% drop after the change from 75% to 74%, 86% to 85% and 65% to 64% respectively.
+   
+   *District Summary after*
     
-    [distrcit_summary_before]
-    [district_summary_after]
+![after_district_summary](/Resources/after_district_summary.PNG)
+
+*District Summary before*
+
+![before_district_summary](/Resources/before_district_summary.PNG)
     
        
  **2- How is the school summary affected?**
