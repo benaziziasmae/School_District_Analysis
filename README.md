@@ -74,7 +74,7 @@ In the deliverable 2 we were assigned to repeat the school district analysis alr
    
  It creates an overview table that summarizes key metrics about each school, including:
 
-- School Name 
+- School Name  v
 - School Type 
 - Total Students 
 - Total School Budget
