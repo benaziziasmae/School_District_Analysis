@@ -90,7 +90,7 @@ And since some of the test scores from the 9th grade at Thomas High School are m
 
     *1-3 The top 5 and bottom 5 performing schools, based on the overall passing rate*
     
-     ![top_and_bottom_schools](Resources/top_and_bottom_schools.PNG.PNG)
+     ![top_and_bottom_schools](Resources/top_and_bottom_schools.PNG)
     
    
     *1-4 The average math score for each grade level from each school*
