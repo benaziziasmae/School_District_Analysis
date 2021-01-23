@@ -121,11 +121,11 @@ And since some of the test scores from the 9th grade at Thomas High School are m
     
    ## Analysis and challenges
    
-   1. How is the district summary affected?
+  1. How is the district summary affected?
    
    If we compare the results from PyCitySchools and PyCitySchools_Challenge, we can see a slight difference in the results: 1% drop avg math score between two analysis, while the average reading score stayed the same.
        
-   2. How is the school summary affected?
+  2. How is the school summary affected?
 
 The only change is within Thomas High Schools statistics as both math and reading scores drop. The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
 
@@ -134,7 +134,7 @@ The only change is within Thomas High Schools statistics as both math and readin
 
 Thomas High School's performance decreased compared to the other schools however, it is not one of the lowest performing schools.
 
- 4. How does replacing the ninth-grade scores affect the following: 
+  4. How does replacing the ninth-grade scores affect the following: 
  
 -- Math and reading scores by grade
 
@@ -156,10 +156,10 @@ The charter type schools saw a drop from 90% to 87% overall passing percentage.
 
 #Conclusion
 
-The four major changes that occured between the two analyses were:
+  The four major changes that occured between the two analyses were:
 
-- Without the 9th graders' scores, Thomas High School is not as competitive with other charter schools.
-- Without Thomas High School, the overall 9th graders' scores fell.
-- Without the 9th graders' scores, the district summary changes much less than the Thomas High School.
-- While 9th graders at Thomas High School aren't their highest performers, they do balance out the school's scores compared to just looking at 10th-12th graders.
+ - Without the 9th graders' scores, Thomas High School is not as competitive with other charter schools.
+ - Without Thomas High School, the overall 9th graders' scores fell.
+ - Without the 9th graders' scores, the district summary changes much less than the Thomas High School.
+ - While 9th graders at Thomas High School aren't their highest performers, they do balance out the school's scores compared to just looking at 10th-12th graders.
    
