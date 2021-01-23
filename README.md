@@ -121,51 +121,40 @@ And since some of the test scores from the 9th grade at Thomas High School are m
     
    ## Analysis and challenges
    
-   #How is the district summary affected?
-   If we compare the results from PyCitySchools and PyCitySchools_Challenge, we can see a slight difference in the results as below but we can say that there were no huge impact after removing the 9th grade data 
+   1. How is the district summary affected?
    
-   **Before** <<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>> >>>>>>>>>>>>>>>>>>>>**After**
-   
-   Average Math Score = 79.0  <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Average Math Score = 78.9
-   
-   Average Reading Score = 81.9 <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Average Reading Score = 81.9
-   
-   % Passing Math 75 <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  % Passing Math 74.8
-   
-   % Passing Reading 86     <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>   % Passing Reading 85.7
-   
-   % Overall Passing 65      <<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  % Overall Passing 64.9
-   
+   If we compare the results from PyCitySchools and PyCitySchools_Challenge, we can see a slight difference in the results: 1% drop avg math score between two analysis, while the average reading score stayed the same.
+       
+   2. How is the school summary affected?
 
-   
-   
-   
-   
-   After taking a look at both district summaries from pycityschools and pycityschools_challenge there is not a change.
-   
-   #How is the school summary affected?
+The only change is within Thomas High Schools statistics as both math and reading scores drop. The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
 
-The over all passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing shrinks by 0.3 %.
 
-#How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Overall it does not affect either the reading scores or math scores. We are doing an investigation because we believe they are not including most of the 9th graders scores because they might bring the school even further down in test scores.
+Thomas High School's scores fell heavily dropping them from 4th to 7th highest scores in the district
+Thomas High School moved from 2nd place overall with a passing % of ~92% down to last place with a passing % of ~68%.
 
-#How does replacing the ninth-grade scores affect the following: #Math and reading scores by grade
+ 4. How does replacing the ninth-grade scores affect the following: 
+ 
+-- Math and reading scores by grade
 
-The only difference now between the scores is that under 9th graders who attended Thomas High School it shows an NaN.
+ The 9th grade scores were brought down as Thomas High School 9th graders averaged higher than other schools
 
-#Scores by school spending
+-- Scores by school spending
 
 The numbers stay nearly identical since the 9th graders are nullified from the statistics.
+The $630 to $644 range saw a drop from 63% to 56% overall passing percentage
 
-#Scores by school size
+-- Scores by school size
 
 Overall passing percentage does not change.
+The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percentage
 
-#Scores by school type
+-- Scores by school type
 
 Scores by school type are not altered at all.
+The charter type schools saw a drop from 90% to 87% overall passing percentage
 
 #Conclusion
 
