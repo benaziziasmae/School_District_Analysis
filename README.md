@@ -71,7 +71,7 @@ And since some of the test scores from the 9th grade at Thomas High School are m
    
    *1-2 The school summary*
    
-   ![school_summary_2](/Resources/school_summary_2.PNG)
+   ![after_school_summary](/Resources/after_school_summary.PNG)
    
    
  It creates an overview table that summarizes key metrics about each school, including:
@@ -91,7 +91,8 @@ And since some of the test scores from the 9th grade at Thomas High School are m
     *1-3 The top 5 and bottom 5 performing schools, based on the overall passing rate*
     
      ![top_and_bottom_schools](Resources/top_and_bottom_schools.PNG)
-    
+     
+   
    
     *1-4 The average math score for each grade level from each school*
 
@@ -144,9 +145,13 @@ Average Math Score and Average Reading scores for Thomas High School changed dra
 - % Passing Students for Math and Reading for Thomas High School came considerable down from 93.27% to 66.91% and 97.31% to 69.66% respectively.
 - % Overall passing students for Thomas High School came down from 90.95% to 65.08%.
 
+*School Summary after* 
 
- [school_summary_before]
- [school_summary_after]
+ ![after_school_summary](/Resources/after_school_summary.PNG)
+ 
+ *School Summary before* 
+ 
+ ![beforer_school_summary](/Resources/before_school_summary.PNG)
 
 
 
