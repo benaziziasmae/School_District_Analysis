@@ -207,11 +207,11 @@ In the cohort $630-644, % passing math, %passing reading and %overall passing ha
 
 *After school spending*
 
-![after_school_spending_summary](/Resources/after_school_spending_summary.PNG
+![after_school_spending_summary](/Resources/after_school_spending_summary.PNG)
 
 *Before school spending*
 
-![before_school_spending_summary](/Resources/before_school_spending_summary.PNG
+![before_school_spending_summary](/Resources/before_school_spending_summary.PNG)
 
 
   -- Scores by school size
@@ -223,11 +223,11 @@ The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percent
 
 *After school size*
 
-![after_school_size_summary](/Resources/after_school_size_summary.PNG
+![after_school_size_summary](/Resources/after_school_size_summary.PNG)
 
 *Before school size*
 
-![before_school_size_summary](/Resources/before_school_size_summary.PNG
+![before_school_size_summary](/Resources/before_school_size_summary.PNG)
 
 
   -- Scores by school type
@@ -239,11 +239,11 @@ The charter type schools saw a drop from 90% to 87% overall passing percentage.
 
 *After school type*
 
-![after_school_type_summary](/Resources/after_school_type_summary.PNG
+![after_school_type_summary](/Resources/after_school_type_summary.PNG)
 
 *Before school type*
 
-![before_school_type_summary](/Resources/before_school_type_summary.PNGy
+![before_school_type_summary](/Resources/before_school_type_summary.PNG)
 
 # Conclusion
 
