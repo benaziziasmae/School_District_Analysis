@@ -123,10 +123,10 @@ And since some of the test scores from the 9th grade at Thomas High School are m
    
  **1- How is the district summary affected?**
    
-   If we compare the results from PyCitySchools and PyCitySchools_Challenge, we can see a slight difference in the results: 1% drop avg math score and reading between two analysis:
+   If we compare the results from PyCitySchools and PyCitySchools_Challenge, we can see that only Thomas High School got affected, it's a slight difference in the results: 0.1% drop avg math score and reanding between two analysis:
    
-   - Average math and reading scores dropped just by 1%, i.e. from 79.9% to 79.8% and 81.8% to 81.9% respectively.
-   - % Passing Math, % Passing Reading and % Overall passing also showed 1% drop after the change from 74.9% to 74,8%, from 85.8% to 85.7% and 65.1% to 64.9% respectively.
+   - Average math and reading scores dropped just by 0.1%, i.e. from 79.9% to 79.8% and 81.8% to 81.9% respectively.
+   - % Passing Math, % Passing Reading and % Overall passing also showed 0.1% drop after the change from 74.9% to 74,8%, from 85.8% to 85.7% and 65.1% to 64.9% respectively.
    
    *District Summary after*
     
@@ -139,7 +139,7 @@ And since some of the test scores from the 9th grade at Thomas High School are m
        
  **2- How is the school summary affected?**
 
--  The data remains unaffected for all schools except for Thomas High School which showed a drasctic drop passing %. 
+-  The data remains unaffected for all schools except for Thomas High School which showed a drop passing %. 
 - % Passing Students for Math and Reading for Thomas High School came considerable down from 93.27% to 66.91% and 97.31% to 69.66% respectively.
 - % Overall passing students for Thomas High School came down from 90.95% to 65.08%.
 
@@ -157,7 +157,7 @@ And since some of the test scores from the 9th grade at Thomas High School are m
 
 Thomas High School's performance decreased compared to the other schools however, it is not one of the lowest performing schools.
 Thomas High School for both after and before doing the chages remain among the top ranked schools.
-Howerver, the avverage Math Score and Average Reading scores dropped a bit, which impacted the % overall Passing which dropped from 90.94% to 90.63%.
+Howerver, the average Math Score and Average Reading scores dropped a bit, which impacted the % overall Passing which dropped from 90.94% to 90.63%.
  
  *After top and bottom summary*
  
@@ -210,7 +210,7 @@ In the cohort $630-644, % passing math, % passing reading and % overall passing 
 
   -- Scores by school size
 
-The average math and reading score, the % passing math and reading and the % Overall students passing remained unaffected, with all the school size types variying from small(<1000) to large(2000-5000)especially that Thomas High School fell in the Medium Category(1000-2000).
+The average math and reading score, the % passing math and reading and the % Overall students passing remained unaffected, with all the school size types varying from small(<1000) to large(2000-5000)especially that Thomas High School fell in the Medium Category(1000-2000).
 
 
 *After school size*
