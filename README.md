@@ -92,7 +92,7 @@ And since some of the test scores from the 9th grade at Thomas High School are m
     
      ![top_and_bottom_schools](Resources/top_and_bottom_schools.PNG)
      
-    
+   
    
     *1-4 The average math score for each grade level from each school*
 
