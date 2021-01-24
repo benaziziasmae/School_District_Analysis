@@ -239,7 +239,7 @@ The score by school type was not affected by the change in the 9th grade, all th
   The four major changes that occured between the two analyses were:
 
  - Without the 9th graders' scores, Thomas High School is not as competitive with other charter schools.
- - The average math and reading scores were dropped slightly at district level, but drastically at school and grade level after the change.
+ - The average math and reading scores were dropped slightly at district level.
  - The percentage passing students for math, reading and overall was also significantly affected at school and grade level for Thomas High School after the change.
 - All academic parameters related to math, reading and overall score were remain the same which ever category of type, size and school spending per student Thomas high School fell into.
  
