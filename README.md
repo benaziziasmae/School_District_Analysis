@@ -156,10 +156,8 @@ And since some of the test scores from the 9th grade at Thomas High School are m
   **3- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 Thomas High School's performance decreased compared to the other schools however, it is not one of the lowest performing schools.
-
-- Average Math Score and Average Reading scores dropped to 23-25.
-- % Passing Students for Math and Reading dropped to almost 27%.
-- % Overall passing students dropped to almost 25%.
+Thomas High School for both after and before doing the chages remain among the top ranked schools.
+Howerver, the avverage Math Score and Average Reading scores dropped a bit, which impacted the % overall Passing which dropped from 90.94% to 90.63%.
  
  *After top and bottom summary*
  
@@ -198,11 +196,8 @@ Thomas High School's performance decreased compared to the other schools however
   -- Scores by school spending
 
 The numbers stay nearly identical since the 9th graders are nullified from the statistics.
-In the cohort $630-644, % passing math, %passing reading and %overall passing have decreased after changing the grades to NaN.
+In the cohort $630-644, % passing math, % passing reading and % overall passing have not changed after changing the grades to NaN.
 
-- Average math and reading scores dropped down from 78.5 to 72.6 and 81.6 to 75.7 respectively.
-- % passing math and reading dropped don from 73% to 67% and 84% to 77% respectively.
-- % Overall students passing dropped from 63% to 56%. Rest data remained unaffected.
 
 *After school spending*
 
@@ -215,10 +210,8 @@ In the cohort $630-644, % passing math, %passing reading and %overall passing ha
 
   -- Scores by school size
 
-The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percentage.
-- Average math and reading scores dropped down from 83.4 to 78.7 and 83.9 to 79.1 respectively.
-- % passing math and reading dropped don from 94% to 88% and 97% to 91% respectively.
-- % Overall students passing dropped from 91% to 85%. Rest data remained unaffected.
+The average math and reading score, the % passing math and reading and the % Overall students passing remained unaffected, with all the school size types variying from small(<1000) to large(2000-5000)especially that Thomas High School fell in the Medium Category(1000-2000).
+
 
 *After school size*
 
@@ -231,10 +224,7 @@ The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percent
 
   -- Scores by school type
 
-The charter type schools saw a drop from 90% to 87% overall passing percentage.
-- Average math and reading scores dropped down from 83.5 to 80.5 and 83.9 to 80.9 respectively.
-- % passing math and reading dropped don from 94% to 90% and 97% to 93% respectively.
-- % Overall students passing dropped from 90% to 87%. Rest data remained unaffected.
+The score by school type was not affected by the change in the 9th grade, all the indicators remain the same.
 
 *After school type*
 
@@ -249,9 +239,8 @@ The charter type schools saw a drop from 90% to 87% overall passing percentage.
   The four major changes that occured between the two analyses were:
 
  - Without the 9th graders' scores, Thomas High School is not as competitive with other charter schools.
- - Thomas High School that was ranked 2nd dropped out of the top 5 schools right to number 8 position after the change.
  - The average math and reading scores were dropped slightly at district level, but drastically at school and grade level after the change.
  - The percentage passing students for math, reading and overall was also significantly affected at school and grade level for Thomas High School after the change.
-- All academic parameters related to math, reading and overall score were drastically dropped which ever category of type, size and school spending per student Thomas high School fell into.
+- All academic parameters related to math, reading and overall score were remain the same which ever category of type, size and school spending per student Thomas high School fell into.
  
    
