@@ -90,35 +90,34 @@ And since some of the test scores from the 9th grade at Thomas High School are m
 
     *1-3 The top 5 and bottom 5 performing schools, based on the overall passing rate*
     
-     ![top_and_bottom_schools](Resources/top_and_bottom_schools_1.PNG)
+     ![top_and_bottom_schools](Resources/after_top_and_bottom_schools_.PNG)
      
-   
    
     *1-4 The average math score for each grade level from each school*
 
-   ![average_math_score](Resources/average_math_score.PNG)
+   ![average_math_score](Resources/after_average_math_score.PNG)
    
  
  
   *1-5 The average reading score for each grade level from each school*
   
-   ![average_reading_score](Resources/average_reading_score.PNG)
+   ![average_reading_score](Resources/aafter_average_reading_score.PNG)
    
    
    *1-6 The scores by school spending per student, by school size, and by school type*
    
      a- By school spending per student
    
-   ![school_spending_summary](Resources/school_spending_summary.PNG)
+   ![school_spending_summary](Resources/after_school_spending_summary.PNG)
    
    
     b- By school size
     
-    ![school_size_summary](Resources/school_size_summary.PNG)
+    ![school_size_summary](Resources/after_school_size_summary.PNG)
     
      c- By school type
      
-     ![school_type_summary](Resources/school_type_summary.PNG)
+     ![school_type_summary](Resources/after_school_type_summary.PNG)
     
    ## Analysis and challenges
    
@@ -162,6 +161,15 @@ Thomas High School's performance decreased compared to the other schools however
 - Average Math Score and Average Reading scores dropped to 23-25.
 - % Passing Students for Math and Reading dropped to almost 27%.
 - % Overall passing students dropped to almost 25%.
+ 
+ After top and bottom summary
+ 
+ 
+ ![after_top_and_bottom_schools_](/Resources/after_top_and_bottom_schools_.PNG)
+ 
+ Before top and bottom summary
+ 
+![before_top_and_bottom_schools_1](/Resources/before_top_and_bottom_schools_1.PNG)
 
   **4- How does replacing the ninth-grade scores affect the following:** 
  
