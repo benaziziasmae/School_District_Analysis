@@ -95,13 +95,13 @@ And since some of the test scores from the 9th grade at Thomas High School are m
    
     *1-4 The average math score for each grade level from each school*
 
-   ![average_math_score](Resources/after_average_math_score.PNG)
+   ![after_average_math_score](Resources/after_average_math_score.PNG)
    
  
  
   *1-5 The average reading score for each grade level from each school*
   
-   ![average_reading_score](Resources/aafter_average_reading_score.PNG)
+   ![after_average_reading_score](Resources/after_average_reading_score.PNG)
    
    
    *1-6 The scores by school spending per student, by school size, and by school type*
