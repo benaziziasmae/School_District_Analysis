@@ -162,12 +162,12 @@ Thomas High School's performance decreased compared to the other schools however
 - % Passing Students for Math and Reading dropped to almost 27%.
 - % Overall passing students dropped to almost 25%.
  
- After top and bottom summary
+ *After top and bottom summary*
  
  
  ![after_top_and_bottom_schools_](/Resources/after_top_and_bottom_schools_.PNG)
  
- Before top and bottom summary
+* Before top and bottom summary*
  
 ![before_top_and_bottom_schools_1](/Resources/before_top_and_bottom_schools_1.PNG)
 
@@ -179,6 +179,23 @@ Thomas High School's performance decreased compared to the other schools however
 - The average math and reading scores of Thomas High School bacame 0 from 83.6 and 83.7 respectively.
 - The rank of Thomas High School which was 2nd on the list moved down to 8th position duw to the change.
 
+*After Math scores by grade*
+
+![after_average_math_score](/Resources/after_average_math_score.PNG)
+
+*Before Math scores by grade*
+
+![before_average_math_score](/Resources/before_average_math_score.PNG)
+
+
+*After reading scores by grade*
+
+![after_average_reading_score](/Resources/after_average_reading_score.PNG)
+
+*Before reading scores by grade*
+
+![before_average_reading_score](/Resources/before_average_reading_score.PNG)
+
   -- Scores by school spending
 
 The numbers stay nearly identical since the 9th graders are nullified from the statistics.
@@ -188,6 +205,14 @@ In the cohort $630-644, % passing math, %passing reading and %overall passing ha
 - % passing math and reading dropped don from 73% to 67% and 84% to 77% respectively.
 - % Overall students passing dropped from 63% to 56%. Rest data remained unaffected.
 
+*After school spending*
+
+![after_school_spending_summary](/Resources/after_school_spending_summary.PNG
+
+*Before school spending*
+
+![before_school_spending_summary](/Resources/before_school_spending_summary.PNG
+
 
   -- Scores by school size
 
@@ -196,13 +221,29 @@ The 1000 to 2000 size schools saw a drop from 91% to 85% overall passing percent
 - % passing math and reading dropped don from 94% to 88% and 97% to 91% respectively.
 - % Overall students passing dropped from 91% to 85%. Rest data remained unaffected.
 
+*After school size*
+
+![after_school_size_summary](/Resources/after_school_size_summary.PNG
+
+*Before school size*
+
+![before_school_size_summary](/Resources/before_school_size_summary.PNG
+
+
   -- Scores by school type
 
 The charter type schools saw a drop from 90% to 87% overall passing percentage.
 - Average math and reading scores dropped down from 83.5 to 80.5 and 83.9 to 80.9 respectively.
 - % passing math and reading dropped don from 94% to 90% and 97% to 93% respectively.
 - % Overall students passing dropped from 90% to 87%. Rest data remained unaffected.
-Summary
+
+*After school type*
+
+![after_school_type_summary](/Resources/after_school_type_summary.PNG
+
+*Before school type*
+
+![before_school_type_summary](/Resources/before_school_type_summary.PNGy
 
 # Conclusion
 
